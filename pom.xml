@@ -37,9 +37,9 @@
   
   	<!--  自己的工具类  -->
   	<dependency>
-  		<groupId>com.zhuzhiguang.utils</groupId>
-  		<artifactId>zhukzhiguang-utils</artifactId>
-  		<version>0.0.1-SNAPSHOT</version>
+  		<groupId>com.guoruifeng.utils</groupId>
+  <artifactId>guoruifeng-utils</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
   	</dependency>
   	
   	<!-- spring 及springMVC -->
